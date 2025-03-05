@@ -1,0 +1,10 @@
+* { 
+    font-family: Arial; 
+    margin: 0 auto; 
+    background-color: #3C9A5F; 
+}
+
+#box {
+    border: solid 5px black;
+    padding: 50px;
+}
